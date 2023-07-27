@@ -1,1 +1,7 @@
-# C_Lang_Project
+# C Lang Project
+
+Visual Studio 2022를 활용한 정보처리기사 학습 프로그램!
+
+키보드를 활용한 메뉴 선택기능과 객관식 문제 풀이
+
+주관식 문제의 일부 정답 확인 기능 추가
